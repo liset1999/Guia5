@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Guia5</string>
+    <string name="conversations">Conversaciones</string>
+    <string name="login">Login</string>
+    <string name="calculator">Calculadora</string>
+    <string name="data">Datos</string>
+
+    <string name="miNombre">Liset Maricela Saldaña Martinez</string>
+    <string name="code">SM18-I04-001</string>
+
+    <string name="name">Nombre</string>
+    <string name="time">Tiempo</string>
+    <string name="message">Mensaje</string>
+
+    <string name="txtinicio">Inicio de sesion</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="login2">Login</string>
+    <string name="reset">Limpiar</string>
+
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+
+    <string name="signSin">sin</string>
+    <string name="signCos">cos</string>
+    <string name="signTan">tan</string>
+    <string name="signLn">ln</string>
+    <string name="signLog">log</string>
+    <string name="signE">e</string>
+    <string name="signPrtOpen">(</string>
+    <string name="signPrtClose">)</string>
+    <string name="signDeg">DEG</string>
+    <string name="signInv">INV</string>
+    <string name="signPot">ᶺ</string>
+    <string name="signSqr">√</string>
+    <string name="signAdm">!</string>
+</resources>
